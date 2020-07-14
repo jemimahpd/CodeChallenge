@@ -10,6 +10,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
+//This class represents customer table in MySQL
 @Entity
 @Table(name ="customer")
 public class Customer {

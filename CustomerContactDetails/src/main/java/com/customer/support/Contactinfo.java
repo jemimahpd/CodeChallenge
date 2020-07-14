@@ -10,7 +10,7 @@ import javax.persistence.Table;
 import org.hibernate.annotations.Fetch;
 import org.hibernate.annotations.FetchMode;
 
-
+//This class represents the ContactInfo class in MySQL
 @Entity
 @Table(name = "Contactinfo")
 public class Contactinfo {

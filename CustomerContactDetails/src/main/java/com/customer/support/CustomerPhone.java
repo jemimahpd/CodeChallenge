@@ -1,5 +1,7 @@
 package com.customer.support;
 
+
+//This DTO class was created for fetching the Customer and ContactInfo table data with join condition.
 public class CustomerPhone {
 
 	private String customerid;
